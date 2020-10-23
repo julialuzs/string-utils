@@ -1,0 +1,20 @@
+{
+  "name": "string-utils",
+  "version": "1.0.0",
+  "description": "String utils for mentorship",
+  "main": "index.ts",
+  "files": ["lib/**/*"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build" : "tsc"
+  },
+  "keywords": [
+    "string",
+    "string-utils"
+  ],
+  "author": "Júlia Luz Maciel dos Santos",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
