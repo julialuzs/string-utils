@@ -48,5 +48,5 @@ export function join(words: string[]): string {
  * @returns {string} <a> tag
  */
 export function linkify(word: string, url: string): string {
-  return `<a href=${url}>${word}</a>`;
+  return `<a href="${url}">${word}</a>`;
 }
