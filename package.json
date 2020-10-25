@@ -1,13 +1,15 @@
 {
   "name": "mentorship-string-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "String utils for mentorship",
   "main": "lib/index.js",
   "types": "lib",
-  "files": ["lib/**/*"],
+  "files": [
+    "lib/**/*"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build" : "tsc"
+    "build": "tsc"
   },
   "keywords": [
     "string",
