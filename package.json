@@ -1,5 +1,5 @@
 {
-  "name": "string-utils",
+  "name": "mentorship-string-utils",
   "version": "1.0.0",
   "description": "String utils for mentorship",
   "main": "index.ts",
