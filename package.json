@@ -2,7 +2,8 @@
   "name": "mentorship-string-utils",
   "version": "1.0.0",
   "description": "String utils for mentorship",
-  "main": "index.ts",
+  "main": "lib/index.js",
+  "types": "lib",
   "files": ["lib/**/*"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
